@@ -1,0 +1,7 @@
+# iverilog output files
+*.vvp
+*.out
+
+# dump files
+*.fst
+*.vcd
